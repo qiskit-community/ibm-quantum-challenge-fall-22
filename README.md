@@ -1,2 +1,21 @@
-# ibm-quantum-fall-challenge-22
-For IBM Quantum Fall Challenge 2022
+# IBM Quantum Fall Challenge 2022
+
+[![License](https://img.shields.io/github/license/qiskit-community/ibm-quantum-fall-challenge-22.svg)](https://opensource.org/licenses/Apache-2.0)<!--- long-description-skip-begin -->![Last updated](https://img.shields.io/github/last-commit/qiskit-community/ibm-quantum-fall-challenge-22/main?label=Last%20updated&style=flat)
+
+
+We are proud to welcome you back for another bi-annual IBM Quantum Challenge this fall! This time we are taking you through an interactive intergalactic storyline and introducing you to a new programming model for building algorithmic routines - The Qiskit Primitives. Qiskit Primitives showcases two of the currently available primitive constructs: Sampler and Estimator - building on core common algorithmic routines in the domain of Optimization, Chemistry and Machine Learning, while also using them as an interface to explore the offerings of the Qiskit Runtime service.
+
+Starting on Friday, November 11 (9AM EDT), embark with us on an 7-day space journey of learning and exploring the latest cutting edge capabilities of Qiskit and Qiskit Runtime service to help you build on skills and tackle constructing quantum algorithmic routines accommodating a few real life deployment practices. You can read more about the challenge in the [announcement blog]().
+
+
+
+Make sure to join the dedicated Slack channel [#challenge-fall-2022]() where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. Please also review our [Slack Guidelines](https://github.com/qiskit-community/ibm-quantum-fall-challenge-22/blob/main/slack-details-and-guidelines.md) to make the most of your experience!
+
+<br>
+<br><br>
+
+# [Event Code of Conduct](https://github.com/qiskit-community/ibm-quantum-fall-challenge-22/blob/main/code%20of%20conduct-for-participants.md)
+
+# [Preliminary Content](https://github.com/qiskit-community/ibm-quantum-fall-challenge-22/blob/main/preliminary_content.md)
+
+# [FAQ](https://github.com/qiskit-community/ibm-quantum-fall-challenge-22/blob/main/faq.md)
