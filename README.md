@@ -1,4 +1,4 @@
-# IBM Quantum Fall Challenge 2022
+# IBM Quantum Challenge Fall 2022
 
 [![License](https://img.shields.io/github/license/qiskit-community/ibm-quantum-fall-challenge-22.svg)](https://opensource.org/licenses/Apache-2.0)<!--- long-description-skip-begin -->![Last updated](https://img.shields.io/github/last-commit/qiskit-community/ibm-quantum-fall-challenge-22/main?label=Last%20updated&style=flat)
 
