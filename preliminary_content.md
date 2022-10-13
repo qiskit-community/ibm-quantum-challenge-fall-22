@@ -1,6 +1,6 @@
 # Preliminary Content
 
-In preparation for the challenge, you should make yourself familiar with the foundational content necessary to understand and complete the four challenges and associated exercises. If you already have a background in some of these topics, or have already set up your IBMid account, then you may skip those parts of this documents. The first lab, and subsequent labs will assume that you have completed these preliminary exercises.
+In preparation for the challenge, you should make yourself familiar with the foundational content necessary to understand and complete the four challenges and associated exercises. 
 
 ## Linear Algebra
 
@@ -12,6 +12,21 @@ Most quantum computing algorithms require an understanding of linear algebra to 
 ## Python Crash Course
 
 Qiskit, and thus the challenge, is implemented in Python. If you’re not familiar with Python, you can learn how the basics from the Qiskit Textbook chapter on [Python and Jupyter Notebooks](https://learn.qiskit.org/course/ch-prerequisites/introduction-to-python-and-jupyter-notebooks). Jupyter notebooks are an interactive way to program and are the most common method for communicating Qiskit work. All exercises for the challenge are provided as Jupyter Notebooks on the IBM Quantum platform. To access the platform, you should create an account using the links provided in the section below.
+
+## Qiskit Runtime
+This blog post from the Qiskit offers a simple overview of what Qiskit Runtime is and why it’s so important.
+- [So What is Qiskit Runtime, Anyway?](https://medium.com/qiskit/so-what-is-qiskit-runtime-anyway-c78aecf3742)
+
+## Error Mitigation
+The following short videos on Qiskit YouTube channel are a great introduction to error mitigation:
+- [Nick Knows - Pauli Twirling](https://youtu.be/4MLHvmmpSQ8)
+- [Nick Knows - Measurement Errors](https://youtu.be/9ZSBkH-2zjs)
+- [Nick Knows - Dynamical Decoupling](https://youtu.be/67jRWQuW3Fk)
+
+Below is for those who want to learn more.
+- [With fault tolerance the ultimate goal, error mitigation is the path that gets quantum computing to usefulness](https://research.ibm.com/blog/gammabar-for-quantum-advantage)
+- Qiskit Global Summer School 2021 - [Noise in Quantum Computers (part 1)](https://learn.qiskit.org/summer-school/2021/lec3-1-noise-quantum-computers-1)
+- Qiskit Global Summer School 2021 - [Noise in Quantum Computers (part 2)](https://learn.qiskit.org/summer-school/2021/lec3-2-noise-quantum-computers-pt-2)
 
 ## IBM Quantum Account
 
