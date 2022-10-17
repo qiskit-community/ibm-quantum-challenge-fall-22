@@ -29,7 +29,7 @@ We encourage you complete the exercises in the given order as this is the intend
 
 #### Do I need an IBMid associated with my IBM Quantum Account?
 
-Yes, you'll need an IBMid associated with your IBM Quantum account in order to complete some of the challenges. If you don't already have one, please [register a new IBMid](https://auth.quantum-computing.ibm.com/auth/idaas) using the SAME email address associated with your IBM Quantum account. If you have any questions or face any issues, please let us know in the [#challenge-fall-2022]() Slack channel.
+Yes, you'll need an IBMid associated with your IBM Quantum account in order to complete some of the challenges. If you don't already have one, please [register a new IBMid](https://auth.quantum-computing.ibm.com/auth/idaas) using the SAME email address associated with your IBM Quantum account. If you have any questions or face any issues, please let us know in the [#challenge-fall-2022](https://qiskit.slack.com/archives/C0466L7D5CG) Slack channel.
 
 #### I encountered “Server error”. What should I do?
 
@@ -57,4 +57,4 @@ You will receive the IBM Quantum Challenge Fall 2022 Achievement digital badge f
 
 #### Still have more questions?
 
-Please let us know if you have any additional questions in the [#challenge-fall-2022]() in the [Qiskit Slack](https://ibm.co/joinqiskitslack) workspace. 
+Please let us know if you have any additional questions in the [#challenge-fall-2022](https://qiskit.slack.com/archives/C0466L7D5CG) in the [Qiskit Slack](https://ibm.co/joinqiskitslack) workspace. 
