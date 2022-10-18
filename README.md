@@ -9,7 +9,7 @@ Starting on Friday, November 11 (9AM EDT), embark with us on an 7-day space jour
 
 
 
-Make sure to join the dedicated Slack channel [#challenge-fall-2022](https://qiskit.slack.com/archives/C0466L7D5CG) where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. Please also review our [Slack Guidelines](https://github.com/qiskit-community/ibm-quantum-fall-challenge-22/blob/main/slack-details-and-guidelines.md) to make the most of your experience!
+Make sure to join the dedicated Slack channel [#challenge-fall-2022](https://qiskit.slack.com/archives/C0466L7D5CG) where you can connect with mentors and fellow attendees! Join the Qiskit Slack workspace [here](https://ibm.co/joinqiskitslack) if you haven't already. 
 
 <br>
 <br><br>
