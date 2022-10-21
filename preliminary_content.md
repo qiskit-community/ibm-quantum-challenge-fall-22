@@ -24,6 +24,7 @@ The following short videos on Qiskit YouTube channel are a great introduction to
 - [Nick Knows - Dynamical Decoupling](https://youtu.be/67jRWQuW3Fk)
 
 Below is for those who want to learn more.
+- [What’s the difference between error suppression, error mitigation, and error correction?](https://research.ibm.com/blog/quantum-error-suppression-mitigation-correction)
 - [With fault tolerance the ultimate goal, error mitigation is the path that gets quantum computing to usefulness](https://research.ibm.com/blog/gammabar-for-quantum-advantage)
 - Qiskit Global Summer School 2021 - [Noise in Quantum Computers (part 1)](https://learn.qiskit.org/summer-school/2021/lec3-1-noise-quantum-computers-1)
 - Qiskit Global Summer School 2021 - [Noise in Quantum Computers (part 2)](https://learn.qiskit.org/summer-school/2021/lec3-2-noise-quantum-computers-pt-2)
