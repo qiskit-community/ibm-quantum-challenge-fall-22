@@ -2,6 +2,11 @@
 
 In preparation for the challenge, you should make yourself familiar with the foundational content necessary to understand and complete the four challenges and associated exercises. 
 
+## Introduction to Quantum Computing
+
+If you are new to quantum computing, please watch this YouTube video:
+- [Understanding Quantum Information and Computation | Lesson 1](https://youtu.be/3-c4xJa7Flk)
+
 ## Linear Algebra
 
 Most quantum computing algorithms require an understanding of linear algebra to formulate the problem. However, you need not be an expert on the topic to complete the IBM Quantum Challenge Fall 2022. Here are  the resource that can help you learn or brush-up on the foundations of linear algebra and matrices.
@@ -14,8 +19,11 @@ Most quantum computing algorithms require an understanding of linear algebra to 
 Qiskit, and thus the challenge, is implemented in Python. If you’re not familiar with Python, you can learn how the basics from the Qiskit Textbook chapter on [Python and Jupyter Notebooks](https://learn.qiskit.org/course/ch-prerequisites/introduction-to-python-and-jupyter-notebooks). Jupyter notebooks are an interactive way to program and are the most common method for communicating Qiskit work. All exercises for the challenge are provided as Jupyter Notebooks on the IBM Quantum platform. To access the platform, you should create an account using the links provided in the section below.
 
 ## Qiskit Runtime
-This blog post from the Qiskit offers a simple overview of what Qiskit Runtime is and why it’s so important.
+This blog post from the Qiskit offers a simple overview of what Qiskit Runtime is and why it’s so important:
 - [So What is Qiskit Runtime, Anyway?](https://medium.com/qiskit/so-what-is-qiskit-runtime-anyway-c78aecf3742)
+
+This video is also good for the overview:
+- [What are Quantum Primitives?](https://youtu.be/kyLi8Gswpxo)
 
 ## Error Mitigation
 The following short videos on Qiskit YouTube channel are a great introduction to error mitigation:
