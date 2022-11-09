@@ -26,6 +26,10 @@ This video is also good for the overview:
 - [What are Quantum Primitives?](https://youtu.be/kyLi8Gswpxo)
 
 ## Error Mitigation
+
+Here is a layperson introduction to quantum noise:
+- [How I Use Quantum Computing to Create Bubble Art: A creative visualization of quantum noise](https://medium.com/qiskit/how-i-use-quantum-computing-to-create-bubble-art-d6c01f3ec2e)
+
 The following short videos on Qiskit YouTube channel are a great introduction to error mitigation:
 - [Nick Knows - Pauli Twirling](https://youtu.be/4MLHvmmpSQ8)
 - [Nick Knows - Measurement Errors](https://youtu.be/9ZSBkH-2zjs)
