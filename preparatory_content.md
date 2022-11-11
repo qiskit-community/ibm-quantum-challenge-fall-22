@@ -1,4 +1,4 @@
-# Preliminary Content
+# Preparatory Study Resources
 
 In preparation for the challenge, you should make yourself familiar with the foundational content necessary to understand and complete the four challenges and associated exercises. 
 
