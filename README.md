@@ -16,6 +16,6 @@ Following this challenge, if you are looking to apply your new-found knowledge f
 
 # [Event Code of Conduct](https://github.com/qiskit-community/ibm-quantum-fall-challenge-22/blob/main/code%20of%20conduct-for-participants.md)
 
-# [Preparatory Study Resources](https://github.com/qiskit-community/ibm-quantum-fall-challenge-22/blob/main/preliminary_content.md)
+# [Preparatory Study Resources](https://github.com/qiskit-community/ibm-quantum-challenge-fall-22/blob/main/preparatory_content.md)
 
 # [FAQ / Wiki](https://github.com/qiskit-community/ibm-quantum-challenge-fall-22/wiki)
