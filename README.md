@@ -2,6 +2,14 @@
 
 [![License](https://img.shields.io/github/license/qiskit-community/ibm-quantum-fall-challenge-22.svg)](https://opensource.org/licenses/Apache-2.0)<!--- long-description-skip-begin -->![Last updated](https://img.shields.io/github/last-commit/qiskit-community/ibm-quantum-fall-challenge-22/main?label=Last%20updated&style=flat)
 
+## Thank you! We have completed this challenge on Nov 18th, 2022.
+
+## Story
+
+|[Prologue](https://youtu.be/-oXS7X1I-LM) |[Captain's Log](https://youtu.be/tBEcjZn56_E) |[Final](https://youtu.be/cARUHc3JsC0)|
+| --- | --- | --- |
+| ![image of ep1](./fig/prologue.png)  | ![image of ep2](./fig/captainslog.png)  | ![image of ep3](./fig/final.png)  |
+<br/>
 
 We are proud to welcome you back for another bi-annual IBM Quantum Challenge this fall! This time we are taking you through an interactive intergalactic storyline and introducing you to a new programming model for building algorithmic routines - The Qiskit Primitives. Qiskit Primitives showcases two of the currently available primitive constructs: Sampler and Estimator - building on core common algorithmic routines in the domain of Optimization, Chemistry and Machine Learning, while also using them as an interface to explore the offerings of the Qiskit Runtime service.
 
