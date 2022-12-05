@@ -9,7 +9,7 @@
 | <img src="./fig/prologue.png" width="200">  | <img src="./fig/story_pdf.png" width="120">|
 <br/>
 
-# Unofficial Leaderboard
+## Unofficial Leaderboard
 The [unofficial leaderboard](leaderboard.md) shows the top ten scores and standings of contestants who have submitted their code to the final exercise.
 
 --------------------------------
