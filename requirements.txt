@@ -1,0 +1,20 @@
+notebook
+numpy
+matplotlib
+qiskit==0.39.2
+qiskit-aer==0.11.1
+qiskit-experiments==0.4.0
+qiskit-finance==0.3.4
+qiskit-ibm-experiment==0.2.8
+qiskit-ibm-provider==0.1.0
+qiskit-ibm-runtime==0.8.0
+qiskit-ibmq-provider==0.19.2
+qiskit-machine-learning==0.5.0
+qiskit-nature==0.5.0
+qiskit-optimization==0.4.0
+qiskit-terra==0.22.2
+prototype-zne==1.0.0
+pylatexenc
+typeguard
+pathlib
+qc-grader @ git+https://github.com/qiskit-community/Quantum-Challenge-Grader.git
