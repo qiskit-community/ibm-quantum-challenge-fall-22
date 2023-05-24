@@ -9,10 +9,6 @@
 | <img src="./fig/prologue.png" width="200">  | <img src="./fig/story_pdf.png" width="120">|
 <br/>
 
-## Unofficial Leaderboard
-The [unofficial leaderboard](leaderboard.md) shows the top ten scores and standings of contestants who have submitted their code to the final exercise.
-
---------------------------------
 ## Challenge contents
 - [Lab 1](./content/lab-1/lab1.ipynb): 
 Introduction to Primitives on Qiskit Runtime ([Japanese](./content/lab-1/lab1-ja.ipynb), [Korean](./content/lab-1/lab1-ko.ipynb), [Spanish](./content/lab-1/lab1-es.ipynb))
@@ -25,6 +21,10 @@ Introduction to Primitives on Qiskit Runtime ([Japanese](./content/lab-1/lab1-ja
 - Lab 2: [by authors](./solutions-by-authors/lab-2/lab2.ipynb)
 - Lab 3: [by authors](./solutions-by-authors/lab-3/lab3.ipynb)
 - Lab 4: [by participants](./solutions-by-participants/lab-4), [by authors](./solutions-by-authors/lab-4/lab4.ipynb)
+
+## Final challenge submissions
+The [final challenge submissions](final-challenge-submissions.md) shows the list of scroers who made submission to the final exercise.
+
 --------------------------------
 ## Introduction
 We are proud to welcome you back for another bi-annual IBM Quantum Challenge this fall! This time we are taking you through an interactive intergalactic storyline and introducing you to a new programming model for building algorithmic routines - The Qiskit Primitives. Qiskit Primitives showcases two of the currently available primitive constructs: Sampler and Estimator - building on core common algorithmic routines in the domain of Optimization, Chemistry and Machine Learning, while also using them as an interface to explore the offerings of the Qiskit Runtime service.
